@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Famous victorie obtained by Sir VVilliam VValler against the Lord Herbert and the Welch cavaliers in the forrest of Deane in the county of Gloucester, where six hundred of the Welchmen were slaine, and a thousand taken prisoners by the Parliaments forces, the said Lord Herbert generall of South-Wales being slain also a true relation of the whole proceedings of the said Sir William Waller in that county, shewing in what manner he faced Cicester, and what stratagem he and Colonell Massey (who is governour of Gloucester) used when they obtained this victory against the Welch, with the number of men which have been lost by Sir William Waller, and what strength he hath.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40862</idno>
+            <idno type="STC">Wing F389</idno>
+            <idno type="STC">ESTC R40581</idno>
+            <idno type="EEBO-CITATION">19370163</idno>
+            <idno type="OCLC">ocm 19370163</idno>
+            <idno type="VID">108803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Famous victorie obtained by Sir VVilliam VValler against the Lord Herbert and the Welch cavaliers in the forrest of Deane in the county of Gloucester, where six hundred of the Welchmen were slaine, and a thousand taken prisoners by the Parliaments forces, the said Lord Herbert generall of South-Wales being slain also a true relation of the whole proceedings of the said Sir William Waller in that county, shewing in what manner he faced Cicester, and what stratagem he and Colonell Massey (who is governour of Gloucester) used when they obtained this victory against the Welch, with the number of men which have been lost by Sir William Waller, and what strength he hath.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 31, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108803:1" rendition="simple:additions"/>
+            <p>A Famous Victorie OBTAINED By Sir VVILLIAM VVALLER, againſt the Lord HERBERT and the Welch Cavaliers in the Forreſt of <hi>Deane</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Glouceſter,</hi> where ſix hundred of the Welchmen were ſlaine, and a thouſand taken priſoners by the Parliaments Forces, the ſaid Lord <hi>Herbert</hi> Ge<g ref="char:EOLhyphen"/>nerall of <hi>South-Wales</hi> being ſlain.</p>
+            <p>ALSO A true Relation of the whole Proceedings of the ſaid Sir <hi>William Waller</hi> in that County, ſhewing in what man<g ref="char:EOLhyphen"/>ner he faced <hi>Ciceſter,</hi> and what ſtratagem he and Co<g ref="char:EOLunhyphen"/>lonell <hi>Maſſey</hi> (who is Governour of <hi>Glouceſter</hi>) uſed when they obtained this victory againſt the Welch, with the number of men which have been loſt by Sir <hi>William Waller,</hi> and what ſtrength he hath.</p>
+            <p>LONDON, March 31. Printed for <hi>Robert Wood.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108803:2"/>
+            <pb n="1" facs="tcp:108803:2"/>
+            <head>A Famous Victory obtained by Sir VVILLIAM VVALLER againſt the Lord HERBERT and the Welch Cavaliers in the Forreſt of DEANE.</head>
+            <p>UPon occaſion of the great victory which Sir William Waller obtained this weeke againſt the L. Herbert (the Earl of Wor<g ref="char:EOLhyphen"/>ceſters eldeſt ſon, a great Papiſt) and his Welch Cavaliers in the County of Glouceſter, I ſhall not ſo much varie from the matter, as I ſhould injure the worth of that noble Gentleman, if I ſhould ſpeak a word or two in the firſt place of the circuit which he hath gone, and how won<g ref="char:EOLhyphen"/>derfully God hath bleſſed him with good ſuc<g ref="char:EOLhyphen"/>ceſſe ſince his laſt ſetting forth, it being ſuffici<g ref="char:EOLhyphen"/>ently known to the world, what ſingular ſer<g ref="char:EOLhyphen"/>vice he did before for the King and Parliament in the Weſt Countrey.</p>
+            <pb n="2" facs="tcp:108803:3"/>
+            <p> Although at his advancing from Gilford in the County of Surrey, he was not accommoda<g ref="char:EOLhyphen"/>ted with ſuch conſiderable Forces as was deſi<g ref="char:EOLhyphen"/>red, yet ſuch hath been the good ſucceſſe of this worthy Knight, together with the affection of the Country People to the cauſe, that when he came to Salisbury, he was about 4000. ſtrong, and from thence marching to Briſtoll he was 5000. ſtrong, which being a conſiderable force to f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon ſome good Deſign, he advanced with his forces from thence to Malmesbury, where he was ingaged in a hot ſervice, he ſate down before the place the 22. of this March, a little after Noon, and at his firſt comming, the Kings forces ſhewed themſelves under the ſide of a wood, neer the Town, but upon the firſt proffer of a charge, they retired towards Cice<g ref="char:EOLhyphen"/>ſter, whereupon he fell to worke of the Town, and in the skirts of the outward Town, where were Gardens walled in, from whence the E<g ref="char:EOLhyphen"/>nemy played upon the Parliaments Forces, but within halfe an houre they were beaten from thence, and Sir William Wallers forces entred the lovver tovvne, and kept poſſeſsion thereof, driving the enemy into the upper tovvn, vvhich
+<pb n="3" facs="tcp:108803:3"/>they had fortified; and falling upon the Weſt part, in vvhich they had caſt up a breſt-vvorke, and planted a peece of Ordnance: vvherupon Sir William Waller advanced tvvo Drakes, and under that favour his Musketiers poſſeſſed themſelves of ſome houſes neer the port, from vvhence they galled the enemy very ſore, and ſo continuing an hot fight for a vvhile, at laſt he vvas forced to give over for vvant of ammu<g ref="char:EOLhyphen"/>nition, the maine part vvhereof vvas unlucki<g ref="char:EOLhyphen"/>ly ſtayed behinde by a miſchance of the cari<g ref="char:EOLhyphen"/>age, and could not come up till the next mor<g ref="char:EOLhyphen"/>ning,</p>
+            <p>But that the enemy might not perceive this defect of ammunition, tovvards morning he cauſed all the drums to beat, and trumpets to ſound, dravving both horſe and foot out into the ſtreet, as in preparation to an aſſault, vvhich gave the enemy ſuch apprehenſion, that imme<g ref="char:EOLhyphen"/>diately they ſent out a Drum, and craved a par<g ref="char:EOLhyphen"/>ley, yeelded upon quarter, and gave him en<g ref="char:EOLhyphen"/>trance about ſeven a clock in the morning: they vvere about 300. foot and a troup of horſe, but the horſe vvhich ſhevved themſelves neer the tovvn at his firſt coming, ſhifted avvay, vvithout
+<pb n="4" facs="tcp:108803:4"/>making any attempt againſt the Parliaments Forces. At this town Sir W. Waller took priſon<g ref="char:EOLhyphen"/>ers Col. Herbert Lunsford, Col. Cook, Lievte<g ref="char:EOLhyphen"/>nant Colonell Dabridgecourt, Sergeant Major Finch, ſix Captains, ſix Lievtenants, ſix Enſigns, one Cornet and foure Quartermaſters, beſides the ordinary ſouldiers, part whereof were ſent to Glouceſter, and the reſt to Briſtoll.</p>
+            <p>Having ſetled this town in quiet, and left a conſiderable force to defend the ſame, he ad<g ref="char:EOLhyphen"/>vanced with his forces towards Ciceſter, where were 700. foot, and 300. horſe and Dragoons of the Kings Forces, and whether he entred into the Town or no, I will not ſtand now to expo<g ref="char:EOLhyphen"/>ſtulate; for it is rather thought that he made no attempt againſt it, aiming at a greater victory, which he would not neglect for taking a town of ſo ſmall importance: for it is reported for a truth that he onely faced the town; but whileſt he looked on that town, he rowed towards the Forreſt of Deane, where was the L. Herbert be<g ref="char:EOLhyphen"/>fore-mentioned with about 2000. Welchmen which came over the river of Severne at Roſſe bridge, ſince they received that great defeat when they aſſaulted Glouceſter.</p>
+            <pb n="5" facs="tcp:108803:4"/>
+            <p> And to make this intended victory (which was afterwards obtained) the more complete, Sir W. Waller gave notice of this deſigne to Col. Maſſey, who is governour of Glouceſter, with directions for him at ſuch a time to iſſue forth with a conſiderable party from thence on the other ſide of the river, being the time which he intended to fall upon the Welch forces: which buſineſſe on both ſides being purſued with effect (according to the moſt certain rela<g ref="char:EOLhyphen"/>tion fell out to be thus. Sir W. Waller ſudden<g ref="char:EOLhyphen"/>ly returning from about Ciceſter, and with a ſpeedy march coming to Deane, fell upon the Welchmen, who at the firſt ſeemed to make ſtrange of running away, and therefore for a while fought very manfully till about ſix hun<g ref="char:EOLhyphen"/>dred of them were ſlain, and neer a thouſand taken priſoners, ſo that very few could eſcape to the mountains to bring tidings of her coun<g ref="char:EOLhyphen"/>treys valour. They alſo loſt all their arms and ammunition, with good ſtore of horſe: many Commanders were ſlain, and the reſt were for the moſt part taken priſoners, and it is reported that the L. Herbert himſelf is ſlain. The priſo<g ref="char:EOLhyphen"/>ners are diſpoſed of as thoſe which were taken
+<pb n="6" facs="tcp:108803:5"/>at Malmesbury: for ſome were ſent to Glou<g ref="char:EOLhyphen"/>ceſter, and the reſt to Briſtoll.</p>
+            <p>And it is further informed, that notwithſtan<g ref="char:EOLhyphen"/>ding thoſe great overthrows before-mentioned were not obtained without hazzard and diffi<g ref="char:EOLhyphen"/>culty, yet the ſaid Sir William Waller hath not loſt in all above 60. of his men ſince he firſt went forth, which is a thing very obſervable.</p>
+            <p>The ſum of this Relation is received with much credit, though the particulars thereof as yet are not certainly known: for the party that brought this relation came away poſt as ſoone as the victory was obtained, before the particu<g ref="char:EOLhyphen"/>lar knowledge thereof could appeare to thoſe that were in the Action, but within few dayes when Letters come out of thoſe parts, there wil be a more full and exact Relation of this buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108803:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
